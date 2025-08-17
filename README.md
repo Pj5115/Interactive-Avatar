@@ -1,9 +1,1 @@
-# p5.js
-
-This is the Template Repl for p5.js.
-
-p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.
-
-[Check out the official docs here](https://p5js.org/reference/).
-
-
+My project is an Interactive project! Its the first ever coding projecti have ever done. Its just a avatar I made of myself with a quote I made of. I made my project on replit, I struggled with makinf the avatars hair.
