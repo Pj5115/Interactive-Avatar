@@ -23,29 +23,25 @@ function draw() {
   fill(15, 15, 15); 
   noStroke();
   
-  // Main medium afro 
+  
   ellipse(width/2, height/2 - 80, 280, 220);
   
-  // Top volume for height
+  
   ellipse(width/2, height/2 - 140, 200, 100);
   ellipse(width/2, height/2 - 180, 150, 60);
   
-  // Side volume for moderate width
   ellipse(width/2 - 100, height/2 - 60, 120, 150); 
   ellipse(width/2 + 100, height/2 - 60, 120, 150); 
   
-  // Additional texture for natural fullness
   ellipse(width/2 - 70, height/2 - 110, 80, 100); 
   ellipse(width/2 + 70, height/2 - 110, 80, 100); 
   ellipse(width/2 - 130, height/2 - 80, 60, 80); 
   ellipse(width/2 + 130, height/2 - 80, 60, 80);
   ellipse(width/2, height/2 - 200, 100, 40); 
   
-  // Lower texture around face area
   ellipse(width/2 - 90, height/2 - 20, 50, 70); 
   ellipse(width/2 + 90, height/2 - 20, 50, 70); 
   
-  // Left side flowers 
   push();
   noStroke();
   
